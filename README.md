@@ -40,15 +40,18 @@ You should now have the project running locally on a dev server.
 ## Acknowledgements
 This project was built from the tutorial [React Tutorial From Scratch: A Step-by-Step Guide (2021)](https://ibaslogic.com/react-tutorial-for-beginners/)
 
+## Demo
+
+Check out the [live version](https://unruffled-kowalevski-169996.netlify.app) of the website for more details.
+
 
 ## Author
 
 👤 **Victor Chukwuemeka**
 
-- GitHub: [@chukwuemeka1234](/github.com/RayhanTabase)
-chukwuemeka1234)//twitter.com/@RayhanTabase)
-- Twitter: [@avc_victor](http://linkedin.com/in/- LinkedIn: [ani-chukwuemeka]
-ani-chukwuemeka-a65421199/)
+- GitHub: [@chukwuemeka1234](https://github.com/chukwuemeka1234)
+- Twitter: [@avc_victor](https://twitter.com/@avc_victor)
+- LinkedIn: [ani-chukwuemeka](https://linkedin.com/in/ani-chukwuemeka-a65421199/)
 
 ## 🤝 Contributing
 
